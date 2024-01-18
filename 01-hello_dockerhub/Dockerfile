@@ -1,0 +1,1 @@
+FROM docsseo91/stardocker:v1
